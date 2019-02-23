@@ -1,5 +1,8 @@
 _repo: The-Monthly-Review-of-Dental-Surgery-The-Journal-of-the-British-Dental-Association-No-VIII-Oc__58903
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58903-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '437'
     url: http://www.gutenberg.org/2009/agents/437
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58903#The-Monthly-Review-of-Dental-Surgery-The-Journal-of-the-British-Dental-Association-No-VIII-Oc_
 gutenberg_issued: '2019-02-17'
 gutenberg_type: Text
 identifiers:
