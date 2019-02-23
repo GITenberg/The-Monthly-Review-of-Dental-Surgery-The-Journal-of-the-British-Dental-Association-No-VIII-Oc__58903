@@ -1,0 +1,37 @@
+_repo: The-Monthly-Review-of-Dental-Surgery-The-Journal-of-the-British-Dental-Association-No-VIII-Oc__58903
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Coleman, Alfred
+    gutenberg_agent_id: '50203'
+    url: http://www.gutenberg.org/2009/agents/50203
+  - agent_name: McSpadden, J. Walker (Joseph Walker)
+    aliases:
+    - Walker, Joseph
+    - McSpadden, Joseph Walker
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '437'
+    url: http://www.gutenberg.org/2009/agents/437
+description: ''
+gutenberg_issued: '2019-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Monthly Review of Dental Surgery
+
+  The Journal of the British Dental Association No. VIII.
+
+  October, 1880. Vol. I.'
+url: http://www.gutenberg.org/ebooks/58903
